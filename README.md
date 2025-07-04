@@ -20,3 +20,5 @@ An Excel dashboard that visualizes job trends by role, location, company type, s
 ![Screenshot 2025-07-04 124343](https://github.com/user-attachments/assets/e612717f-f805-46cb-bf35-17fc88d6eefc)
 
 ![Screenshot 2025-07-04 124358](https://github.com/user-attachments/assets/aeeef954-0750-455b-b9b6-9c54f3d4ff9a)
+
+Dataset Link:- https://www.kaggle.com/code/karankrishna/job-market-analysis-of-india
